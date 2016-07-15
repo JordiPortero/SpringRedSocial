@@ -2,17 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="15e97eea-48bb-4669-817b-fc65d8d47585" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/example/repository/ParejaRepository.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/example/service/SocialNetworkService.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/example/ParejaRepository.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/example/PersonaService.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/example/SocialNetworkService.java" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/example/Pareja.java" afterPath="$PROJECT_DIR$/src/main/java/com/example/domain/Pareja.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/example/Persona.java" afterPath="$PROJECT_DIR$/src/main/java/com/example/domain/Persona.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/example/PersonaRepository.java" afterPath="$PROJECT_DIR$/src/main/java/com/example/repository/PersonaRepository.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/example/DemoPersonaApplication.java" afterPath="$PROJECT_DIR$/src/main/java/com/example/DemoPersonaApplication.java" />
     </list>
     <ignored path=".idea/dataSources.local.xml" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -49,14 +39,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="DemoPersonaApplication.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="DemoPersonaApplication.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/example/DemoPersonaApplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
+            <state relative-caret-position="242">
+              <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="method#testSocialNetwork#0;class#DemoPersonaApplication#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -88,7 +77,7 @@
       <file leaf-file-name="PersonaRepository.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/example/repository/PersonaRepository.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
+            <state relative-caret-position="119">
               <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
               <folding />
             </state>
@@ -105,11 +94,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ParejaRepository.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="ParejaRepository.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/example/repository/ParejaRepository.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+            <state relative-caret-position="384">
+              <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -120,8 +109,8 @@
       <file leaf-file-name="SocialNetworkService.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/example/service/SocialNetworkService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+            <state relative-caret-position="1378">
+              <caret line="53" column="0" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#686#687#0" expanded="true" />
@@ -430,7 +419,7 @@
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="979" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../PoliedroMaster" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.folding" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="extract.method.default.visibility" value="private" />
@@ -868,12 +857,20 @@
       <updated>1468485847404</updated>
       <workItem from="1468485849068" duration="1601000" />
       <workItem from="1468487616493" duration="7611000" />
-      <workItem from="1468565951310" duration="8057000" />
+      <workItem from="1468565951310" duration="10973000" />
     </task>
+    <task id="LOCAL-00001" summary="Primera versión básica red social, gestionando entidades de tipo persona y pareja.">
+      <created>1468577707420</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1468577707420</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17269000" />
+    <option name="totallyTimeSpent" value="20185000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -920,8 +917,14 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Primera versión básica red social, gestionando entidades de tipo persona y pareja." />
+    <option name="LAST_COMMIT_MESSAGE" value="Primera versión básica red social, gestionando entidades de tipo persona y pareja." />
+  </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="antWorkspaceConfiguration">
@@ -946,7 +949,6 @@
           <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="method#testSocialNetwork#0;class#DemoPersonaApplication#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1034,7 +1036,6 @@
           <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="method#testSocialNetwork#0;class#DemoPersonaApplication#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1125,24 +1126,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/repository/PersonaRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/repository/ParejaRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/example/service/PersonaService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -1151,10 +1134,28 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/DemoPersonaApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/repository/PersonaRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/example/service/SocialNetworkService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        <state relative-caret-position="1378">
+          <caret line="53" column="0" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#686#687#0" expanded="true" />
@@ -1167,13 +1168,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/DemoPersonaApplication.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/repository/ParejaRepository.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
+        <state relative-caret-position="384">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="method#testSocialNetwork#0;class#DemoPersonaApplication#0" expanded="false" />
           </folding>
         </state>
       </provider>
