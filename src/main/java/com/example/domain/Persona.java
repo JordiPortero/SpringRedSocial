@@ -1,10 +1,9 @@
-package com.example;
+package com.example.domain;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
-import java.util.Locale;
 
 /**
  * Created by professor on 20/06/2016.
@@ -68,21 +67,13 @@ public class Persona {
 
         Persona persona = (Persona) o;
 
-        if (getId() != null ? !getId().equals(persona.getId()) : persona.getId() != null) return false;
-        if (getNombre() != null ? !getNombre().equals(persona.getNombre()) : persona.getNombre() != null) return false;
-        if (getApellido() != null ? !getApellido().equals(persona.getApellido()) : persona.getApellido() != null)
-            return false;
-        return getEdad() != null ? getEdad().equals(persona.getEdad()) : persona.getEdad() == null;
+        return getId() != null ? getId().equals(persona.getId()) : persona.getId() == null;
 
     }
 
     @Override
     public int hashCode() {
-        int result = getId() != null ? getId().hashCode() : 0;
-        result = 31 * result + (getNombre() != null ? getNombre().hashCode() : 0);
-        result = 31 * result + (getApellido() != null ? getApellido().hashCode() : 0);
-        result = 31 * result + (getEdad() != null ? getEdad().hashCode() : 0);
-        return result;
+        return getId() != null ? getId().hashCode() : 0;
     }
 }
 
